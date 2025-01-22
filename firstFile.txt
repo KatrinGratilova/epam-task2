@@ -1,10 +1,17 @@
 1 upd1
 2 upd1
-3
+3 step 20
 4 upd2
 5 upd2
+<<<<<<< Updated upstream
 6
 7
 8 folder2
 9 folder2
+=======
+6 folder1
+7 folder1
+8
+9
+>>>>>>> Stashed changes
 10
